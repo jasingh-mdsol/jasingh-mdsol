@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasingh-mdsol
 - 👀 I’m interested in adventure sports and lots of readings
-- 🌱 I’m currently learning pythin, pandas, scikit, keros
+- 🌱 I’m currently learning python, pandas, numpy, scikit, keros
 - 💞️ I’m looking to collaborate on anything thats going to help us move furthur
 - 📫 How to reach me at slack or whatsapp
 
